@@ -33,8 +33,8 @@
 
 /*Кнопки*/
 ._shiptor_widget_frame_basket ._shiptor_widget_summary button {
-    color: white !important;
-    background-color: #3041ad !important;
+    color: #3041ad !important;
+    background-color: white !important;
     border: 1px solid #3041ad !important;
 }
 ._shiptor_widget_frame_basket ._shiptor_widget_summary ._shiptor_widget_basket_clean {
@@ -48,7 +48,7 @@
     background-color: #3041ad !important;
     border: 1px solid #3041ad !important;
 }
-._shiptor_widget_wi_quantity_down  ._shiptor_widget_wi_quantity_up, ._shiptor_widget_close {
+._shiptor_widget_wi_quantity_down a, ._shiptor_widget_wi_quantity_up a, ._shiptor_widget_close {
         color: #3041ad !important;
 }
 /* End Custom Styles */
