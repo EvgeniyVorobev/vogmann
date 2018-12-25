@@ -30,6 +30,27 @@
     border: 1px solid #3041ad;
     border-radius: 30px;
 }
+
+/*Кнопки*/
+._shiptor_widget_frame_basket ._shiptor_widget_summary button {
+    color: white;
+    background-color: #3041ad;
+    border: 1px solid #3041ad;
+}
+._shiptor_widget_frame_basket ._shiptor_widget_summary ._shiptor_widget_basket_clean {
+    color: #ba0022 !important;
+    color: white !important;
+    background: #adbee1 !important;
+    border: 1px solid #adbee1 !important; 
+}
+._shiptor_widget_frame_basket ._shiptor_widget_summary ._shiptor_widget_order_but {
+    color: #ffffff !important;
+    background-color: #3041ad !important;
+    border: 1px solid #3041ad !important;
+}
+._shiptor_widget_wi_quantity_down  ._shiptor_widget_wi_quantity_up, ._shiptor_widget_close {
+        color: #3041ad !important;
+}
 /* End Custom Styles */
 
 
