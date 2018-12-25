@@ -1,3 +1,38 @@
+/*#3041ad - цвет корзины + белый
+кнопки #3041ad + белый
+скругление 30px
+
+И еще когда жмешь очистить там какой-то розовый, надо чтоы белый был
+
++- #3041ad
+Очистить #adbee1
+
+Шрифт Futura как на сайте*/
+
+/*Custom Styles */
+._shiptor_widget_basket_icon {
+    background-color: #3041ad !important; */
+}
+
+._shiptor_widget_frame_basket ._shiptor_widget_summary ._shiptor_widget_basket_clean {
+    color: #3041ad !important;
+}
+
+._shiptor_widget_frame_basket ._shiptor_widget_summary ._shiptor_widget_basket_clean {
+    color: #3041ad;
+    border-radius: 30px;
+    border: 1px solid #3041ad;
+}
+
+._shiptor_widget_frame_basket ._shiptor_widget_summary button {
+    color: #3041ad;
+    background-color: #ffffff;
+    border: 1px solid #3041ad;
+    border-radius: 30px;
+}
+/* End Custom Styles */
+
+
 @import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&subset=cyrillic');
 @keyframes shiptor_widget_right_animate {
 	from {width: 70px;}
