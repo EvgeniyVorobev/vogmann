@@ -33,7 +33,7 @@
 
 /*Кнопки*/
 ._shiptor_widget_frame_basket ._shiptor_widget_summary button {
-    color: white;
+    color: white !important;
     background-color: #3041ad !important;
     border: 1px solid #3041ad !important;
 }
