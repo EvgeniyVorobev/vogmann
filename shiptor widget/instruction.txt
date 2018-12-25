@@ -1,0 +1,9 @@
+<script type="text/javascript" 
+src='https://evgeniyvorobev.github.io/vogmann/shiptor%20widget/widget.js'></script>
+<script type="text/javascript">
+    var shiptorTildaParams = {
+        'styles': {paddingTop: '14px'},
+        'widgetkey': '7GW5YSTSETZGD2WR1ZD7LDV4ZHXF833R1LAU35016'
+    };
+    new ShiptorTildaIntegration(shiptorTildaParams);
+</script>
