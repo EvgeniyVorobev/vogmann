@@ -48,9 +48,17 @@
     background-color: #3041ad !important;
     border: 1px solid #3041ad !important;
 }
-._shiptor_widget_wi_quantity_down a, ._shiptor_widget_wi_quantity_up a, ._shiptor_widget_close {
-        color: #3041ad !important;
+a._shiptor_widget_wi_quantity_down {
+    color: #3041ad !important;
 }
+a._shiptor_widget_wi_quantity_up {
+    color: #3041ad !important;
+}
+._shiptor_widget_close {
+    color: #3041ad !important;
+}
+
+.
 /* End Custom Styles */
 
 
