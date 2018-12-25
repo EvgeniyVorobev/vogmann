@@ -25,17 +25,17 @@
 }
 
 ._shiptor_widget_frame_basket ._shiptor_widget_summary button {
-    color: #3041ad;
-    background-color: #ffffff;
-    border: 1px solid #3041ad;
-    border-radius: 30px;
+    color: #3041ad !important;
+    background-color: #ffffff !important;
+    border: 1px solid #3041ad !important;
+    border-radius: 30px !important;
 }
 
 /*Кнопки*/
 ._shiptor_widget_frame_basket ._shiptor_widget_summary button {
     color: white;
-    background-color: #3041ad;
-    border: 1px solid #3041ad;
+    background-color: #3041ad !important;
+    border: 1px solid #3041ad !important;
 }
 ._shiptor_widget_frame_basket ._shiptor_widget_summary ._shiptor_widget_basket_clean {
     color: #ba0022 !important;
