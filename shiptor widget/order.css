@@ -81,7 +81,9 @@ a._shiptor_widget_wi_quantity_up {
     color: #3041ad !important;
 }
 
-.
+button._shiptor_widget_button._shiptor_widget_button_default {
+    background-color: #3041ad !important;
+}
 /* End Custom Styles */
 
 
