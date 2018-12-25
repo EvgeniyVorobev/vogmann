@@ -10,6 +10,29 @@
 Шрифт Futura как на сайте*/
 
 /*Custom Styles */
+span._shiptor_widget_points_cost {
+    color: #3041ad !important;
+}
+
+span._shiptor_widget_methods_cost {
+    color: #3041ad !important;
+}
+
+._shiptor_widget_points_confirm {
+    background-color: #3041ad !important; 
+}
+
+a._shiptor_widget_button._shiptor_widget_button_default {
+    background-color: #3041ad !important;
+}
+
+span._shiptor_widget_points_button {
+    color: #adbee1 !important;
+}
+._shiptor_widget_points_button:hover {
+    color: #3041ad !important;
+}
+
 ._shiptor_widget_basket_icon {
     background-color: #3041ad !important; */
 }
@@ -19,9 +42,9 @@
 }
 
 ._shiptor_widget_frame_basket ._shiptor_widget_summary ._shiptor_widget_basket_clean {
-    color: #3041ad;
+    color: #3041ad !important;
     border-radius: 30px;
-    border: 1px solid #3041ad;
+    border: 1px solid #3041ad !important;
 }
 
 ._shiptor_widget_frame_basket ._shiptor_widget_summary button {
