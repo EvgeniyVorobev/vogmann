@@ -154,7 +154,7 @@
         margin: 0 0 0 0;
         font-weight: normal;
         font-style: normal;
-		font-family: Verdana, Tahoma, sans-serif;
+		font-family: FuturaPT, Tahoma, sans-serif;
     }
     ._shiptor_widget *,
     ._shiptor_widget *:before,
@@ -278,7 +278,7 @@
     ._shiptor_widget input[type="button"],
     ._shiptor_widget input[type="submit"],
     ._shiptor_widget button {
-        font-family: Verdana, Tahoma, sans-serif;
+        font-family: FuturaPT, Tahoma, sans-serif;
         cursor: pointer;
     }
     ._shiptor_widget input[type="button"]::-moz-focus-inner,
@@ -313,7 +313,7 @@
         color: #262626;
         font-size: 14px;
         line-height: 1.42857143;
-        font-family: Verdana, Tahoma, sans-serif;
+        font-family: FuturaPT, Tahoma, sans-serif;
     }
     ._shiptor_widget_overlay {
         position: absolute;
